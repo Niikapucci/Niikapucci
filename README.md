@@ -9,7 +9,7 @@
 
 - 👨‍💻 GitHub (em andamento) [https://github.com/Niikapucci](https://github.com/Niikapucci)
 
-- 📫 E-mail **capucci.nikolas@gmail.com**
+- 📫 E-mail **nikolas.capucci@yahoo.com**
 
 - 📄 LinkedIn [https://www.linkedin.com/in/nikolascapucci/](https://www.linkedin.com/in/nikolascapucci/)
 
