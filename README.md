@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/capuccinikolas" target="blank"><img src="https://img.shields.io/twitter/follow/capuccinikolas?logo=twitter&style=for-the-badge" alt="capuccinikolas" /></a> </p>
 
-- 🌱 Sou estudante de **Engenharia de Software (UniCesumar) e Análise e Desenvolvimento de Sistemas (Faculdade Impacta)**
+- 🌱 Sou estudante de **Análise e Desenvolvimento de Sistemas (UniCesumar)** e do curso **Certified Tech Developer (Digital House)**
 
 - 👨‍💻 GitHub (em andamento) [https://github.com/Niikapucci](https://github.com/Niikapucci)
 
